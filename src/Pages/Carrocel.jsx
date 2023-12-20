@@ -22,7 +22,7 @@ function carrocel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="../../src/assets/imagem2.jpg"
+          src="https://img.freepik.com/fotos-gratis/mao-humana-digitando-no-teclado-do-computador-a-noite-gerada-por-ia_188544-31050.jpg?w=1060&t=st=1703081413~exp=1703082013~hmac=c47d744bdde5670ac152fc27fde686cb56ddce63abe99bcb15ca1fa267c6f92e"
           style={{  width: "100%", height: "450px"  }}
           alt="Second slide"
         />
