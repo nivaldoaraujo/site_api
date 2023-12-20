@@ -10,7 +10,7 @@ function carrocel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="../../src/assets/imagem1.jpg"
+          src="https://img.freepik.com/fotos-gratis/grupo-multietnico-de-estudantes-trabalhando-na-aula-de-informatica_74855-2068.jpg?size=626&ext=jpg&ga=GA1.1.974783152.1692912577&semt=sph"
           style={{  width: "100%", height: "450px"  }}
           alt="First slide"
         />
@@ -34,7 +34,7 @@ function carrocel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="../../src/assets/imagem3.jpg"
+          src="https://img.freepik.com/fotos-gratis/tecnologia-closeup-da-placa-mae-processador-de-computador-de-placa-de-circuito-de-microchip-integrado-com-luz-neon_90220-1203.jpg?w=996&t=st=1703081759~exp=1703082359~hmac=2ade06a6113c6a8c82df0cf3b81b5a645922bd9c91d536195f3c3811757d0e6c"
           style={{  width: "100%", height: "450px"  }}
           alt="Third slide"
         />
