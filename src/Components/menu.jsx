@@ -13,7 +13,7 @@ function BasicExample() {
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="produtos">Produtos</Nav.Link>
-            <NavDropdown title="Dropdown" id="basic-nav-dropdown">
+            <NavDropdown title="Opções:" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Contatos</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
                 Nossa História

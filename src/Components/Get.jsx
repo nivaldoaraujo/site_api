@@ -21,6 +21,7 @@ function container (){
             <div className='text-end' ><Link to="/criar" className='btn btn-primary'>Adicionar</Link></div>
             <table className="table" >
                 <thead>
+                    <tr> <p> Painel de controle de Usuários: </p></tr>
                     <tr>
                         <th>Id</th>
                         <th>Nome</th>
@@ -38,7 +39,7 @@ function container (){
                         <td>{d.email}</td>
                         <td> <img className="fto" src={d.foto}  /> </td>
                         <td>
-                        <Link to={`/update/${d.id}`} className='btn btn-sm btn-success'>Atulizar</Link>
+                        <Link to={`/update/${d.id}`} className='btn btn-sm btn-success'>Atualizar</Link>
                         <button onClick={e => hardSubmit(d.id)} className='btn btn-sm ms-1 btn-danger' >Excluir</button>
                         {/* <Link to="/" className='btn btn-sm ms-1 btn-danger'>Excluir</Link> */}
                         </td>
