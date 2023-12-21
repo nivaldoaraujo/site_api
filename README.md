@@ -14,7 +14,7 @@ Para facilitar a comunicação HTTP Utilizei vários elementos. Entre elas estã
 
 ### Endpoints
 
-Possui diversos endpoints que podem ser importados para o postman usando o arquivo JSON disponibilizado no repositório. Como o sistema usa <b>Eureka server</b>, todos os endpoints possuem o mesmo localhost (http://localhost:8765)
+Possui diversos endpoints que podem ser importados para o postman usando o arquivo JSON disponibilizado no repositório. Como o sistema usa <b>Eureka server</b>, todos os endpoints possuem o mesmo localhost (http://localhost:5173)
 
 - <b>GET</b> (/ms-cart/cart) ➡️ Responsável por mostrar todos os itens dentro do carrinho, bem como o valor unitário e quantidade.
   
@@ -26,7 +26,4 @@ Possui diversos endpoints que podem ser importados para o postman usando o arqui
 
 # Considerações finais
 
-Graças a esse projeto, aprendi muito e pude desenvolver conhecimentos sobre a comunicação síncrona entre microserviços, uso do IntelliJ e Maven, POO, Java 8 (Streams, Lambda)
-
-Vou ficar feliz em receber alguma mensagem com feedbacks sobre o projeto.
-Se você perceber que errei em alguma coisa, que poderia melhorar em determinadas partes do código, por favor me manda uma mensagem, seria ótimo pro meu aprendizado!
+Projeto desenvido para auxiliar nos conceitos de API rest e requisições HTTP
