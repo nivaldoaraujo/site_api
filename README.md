@@ -5,11 +5,12 @@ Um projeto com objetivo de estudos baseado em API rest. A comunicação é sínc
 # Análise técnica
 
 ### Comunicação
-Para facilitar a comunicação entre os microserviços, usei diversas ferramentas. Entre elas estão: 
+Para facilitar a comunicação HTTP Utilizei vários elementos. Entre elas estão: 
 - <b>Servidor json</b> ➡️ É um formato de dados leve e de fácil leitura utilizado para troca de informações entre sistemas computacionais. 
 - <b>Axios</b> ➡️ axios é que ele é um cliente HTTP baseado em promessas totalmente agnóstico, ou seja, que não depende de frameworks e bibliotecas. Ele é super maleável, podendo ser utilizado do lado do cliente (React, Vue, Svelte, etc) e do lado do backend (express, nest, etc). Então vamos mergulhar um pouco mais fundo e ver o que a gente consegue fazer com ele.
-  
-  O Eureka Server também se encarrega de realizar o <b>balanceamento de carga</b>, equilibrando o volume de requisições para aquele projeto que está instanciado mais de uma vez.
+- <b>Git e GitHub</b> ➡️ GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+- <b>Site Render</b> ➡️ O Render é um novo provedor de hospedagem web e de aplicativos, descrito pelo seu CEO como "o melhor dos dois mundos" comparando fornecedores em nuvem de larga escala, como a AWS, e provedores PaaS (Plataforma como Serviço)
+ 
 
 ### Endpoints
 
