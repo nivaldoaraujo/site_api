@@ -21,7 +21,7 @@ function container (){
             <div className='text-end' ><Link to="/criar" className='btn btn-primary'>Adicionar</Link></div>
             <table className="table" >
                 <thead>
-                    <tr> <p style={{ color: "blue", fontSize: "40px" }} > Painel de controle de Usuários: </p></tr>
+                    <tr> <p style={{ color: "blue", fontSize: "40px" }} > -- Painel de controle de Usuários: </p></tr>
                     <tr>
                         <th>Id</th>
                         <th>Nome</th>
